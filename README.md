@@ -1,25 +1,25 @@
 # Web Scraper
 
-Go dilinde yazilmis bir web scraper programi. Verilen sitenin HTML icerigini ceker ekran goruntusu alir ve sayfadaki linkleri listeler.
+A web scraper program written in Go. It fetches the HTML content of a given website, takes a screenshot, and lists the links found on the page.
 
-<img width="1919" height="766" alt="Ekran görüntüsü 2025-12-18 104432" src="https://github.com/user-attachments/assets/48a3fdf8-34f3-411c-b433-b66db46f64ba" />
+<img width="1919" height="766" alt="Screenshot 2025-12-18 104432" src="https://github.com/user-attachments/assets/48a3fdf8-34f3-411c-b433-b66db46f64ba" />
 
-## Kullanim
-
-komut satirindan tek site cekmek icin
+## Usage
+To scrape a single website from the command line:
 ```powershell
 go run main.go <URL>
 ```
-
-web arayuzu baslatmak icin
+To start the web interface:
 ```powershell
 go run main.go --serve
 ```
-sonra tarayicida http://127.0.0.1:8080 adresine git
+Then open the following address in your browser:
+http://127.0.0.1:8080
 
-## Cikti Dosyalari
+## Output Files
 
-- `data/<site>_data.html` - HTML icerigi
-- `screenshot/<site>_screenshot.png` - Ekran goruntusu  
-- `urls/<site>_urls.txt` - Sayfa icindeki linkler
+data/<site>_data.html – HTML content
 
+screenshot/<site>_screenshot.png – Screenshot
+
+urls/<site>_urls.txt – Links found on the page
