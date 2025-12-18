@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Scraper
 
 Go dilinde yazilmis bir web scraper programi. Verilen sitenin HTML icerigini ceker ekran goruntusu alir ve sayfadaki linkleri listeler.
