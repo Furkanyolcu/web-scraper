@@ -1,0 +1,16 @@
+https://mail.google.com/mail/&ogbl
+https://www.google.com/imghp?hl=tr&ogbl
+https://www.google.com.tr/intl/tr/about/products
+https://accounts.google.com/ServiceLogin?hl=tr&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e
+https://about.google/?utm_source=google-TR&utm_medium=referral&utm_campaign=hp-footer&fg=1
+https://www.google.com/intl/tr_tr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+https://google.com/search/howsearchworks/?fg=1
+https://sustainability.google/intl/tr/carbon-free/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer&utm_content=
+https://policies.google.com/privacy?hl=tr&fg=1
+https://policies.google.com/terms?hl=tr&fg=1
+https://www.google.com/preferences?hl=tr&fg=1
+https://www.google.com/advanced_search?hl=tr&fg=1
+https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com
+https://www.google.com/history/optout?hl=tr&fg=1
+https://support.google.com/websearch/?p=ws_results_help&hl=tr&fg=1

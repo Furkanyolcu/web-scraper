@@ -1,0 +1,5 @@
+https://github.com/requests/httpbin
+https://kennethreitz.org/
+mailto:me@kennethreitz.org
+https://github.com/rochacbruno/flasgger
+https://httpbin.org/forms/post
