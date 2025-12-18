@@ -23,7 +23,3 @@ sonra tarayicida http://127.0.0.1:8080 adresine git
 - `screenshot/<site>_screenshot.png` - Ekran goruntusu  
 - `urls/<site>_urls.txt` - Sayfa icindeki linkler
 
-=======
-# web-scraper
-a scraper written in Go
->>>>>>> 295069986fc619f1bb3c4b733b270fd431fc5558
