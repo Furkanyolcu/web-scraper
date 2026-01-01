@@ -23,3 +23,8 @@ data/<site>_data.html – HTML content
 screenshot/<site>_screenshot.png – Screenshot
 
 urls/<site>_urls.txt – Links found on the page
+
+## Legal & Ethical Notice
+This project is for educational and research purposes only.
+Use it only on websites you own or have explicit permission to scrape.
+Respect robots.txt, website terms of service, and data protection laws.
